@@ -1,33 +1,34 @@
-# AI Study Buddy - Flashcard Generator
+# AI Study Buddy 🚀
 
-Um gerador de flashcards inteligente que usa IA para criar perguntas de estudo a partir de anotações textuais.
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-2.3.3-green)](https://flask.palletsprojects.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)](https://www.mysql.com/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-API-yellow)](https://huggingface.co/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple)](LICENSE)
 
-## 🚀 Funcionalidades
+> AI-powered flashcard generator that transforms study notes into interactive quizzes instantly
 
-- Geração automática de flashcards a partir de texto
-- Integração com API do Hugging Face para IA
-- Armazenamento em banco de dados MySQL
-- Interface web responsiva
-- Animações CSS para os flashcards
+## ✨ Features
 
-## 🛠️ Tecnologias
+- 🤖 AI-generated flashcards from text notes
+- ⚡ Instant generation with Hugging Face integration
+- 💾 MySQL database for saving flashcards
+- 🎨 Beautiful responsive interface with CSS animations
+- 📱 Mobile-friendly design
+- 🔒 Secure environment variable configuration
 
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: Python Flask
-- **Banco de Dados**: MySQL
-- **IA**: Hugging Face API
+## 🚀 Quick Start
 
-## 📦 Instalação
-
-### Pré-requisitos
-
+### Prerequisites
 - Python 3.8+
 - MySQL Server
-- Conta no Hugging Face com API key
+- Hugging Face API account
 
-### Passos
+### Installation
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/SEU_USUARIO/ai-study-buddy.git
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/leonaldo293/ai-study-buddy.git
+   cd ai-study-buddy
 cd ai-study-buddy
+
