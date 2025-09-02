@@ -42,6 +42,19 @@ python app.py
 5. **open your browser**
 Navigate to http://localhost:5000
 
+**🔧 Configuration**
+Edit the .env file:
+SECRET_KEY=your_secret_key
+MYSQL_HOST=localhost
+MYSQL_USER=root
+MYSQL_PASSWORD=
+MYSQL_DB=flashcard_db
+MYSQL_PORT=3306
+HUGGINGFACE_API_KEY=your_huggingface_api_key
+HUGGINGFACE_MODEL=google/t5-v1_1-large
+
+
+
 
 
 
