@@ -32,3 +32,20 @@
    cd ai-study-buddy
 cd ai-study-buddy
 
+2. **install dependencies**
+pip install -r requirements.txt
+3. **set up environmet variables**
+cp .env.example .env
+# Edit .env with your configurations
+4. **run the application**
+python app.py
+5. **open your browser**
+Navigate to http://localhost:5000
+
+
+
+
+
+
+
+
